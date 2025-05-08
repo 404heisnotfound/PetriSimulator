@@ -272,7 +272,7 @@
 
 /* Mobile Responsive Hero Section for home page */
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 768px) {
     .main__container {
         display: grid;
         grid-template-columns: auto;
