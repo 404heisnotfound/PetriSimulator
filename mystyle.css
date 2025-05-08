@@ -116,7 +116,7 @@
 
 
 /* Mobile responsive NavBar */
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 768px) {
     .navbar__container {
         display: flex;
         justify-content: space-between;
